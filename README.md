@@ -2,41 +2,37 @@
 ```
 $ pkg update && pkg upgrade
 $ pkg install python git
-$ pkg install play-audio
 $ pip install requests mechanize
 $ pip install --upgrade pip
 $ pip install rich bs4
 $ pip install stdiomask
-$ git clone https://github.com/Basari-ID/simpel
+$ pkg install zip
+$ pkg install unzip
+$ git clone https://github.com/BoocinxD/USAMETA
+```
+## Cara Menjalankan SC
+```
+$ cd USAMETA
+$ git pull
+$ unzip run.zip
 $ ls
-$ cd simpel
-$ python crack.py
-```
-## Cek Hasil 
-```
-$ cd simpel
-$ git pull
-$ python hasil.py
-```
-## Cek Opsi
-```
-$ cd simpel
-$ git pull
-$ python opsi.py
+$ python run.py
 ```
 ## Informasi
-> ketik publik (crack id publik)
+> fitur crack publik dan file
 
-> ketik file ( crack dari file)
+> ketik F untuk crack file
 
-> on/of mode pesawat tiap (400 id)
+> ketik P untuk crack publik
 
-> crack mayan lambat harap (sabar)
+> on/of mode pesawat tiap (300 id)
+
+> pilih target dengan tepat (sabar)
 ```
 jangan gunakan akun pribadi buat diambil cokisnya
 ```
 ```
-make doang nggak follow gg lu bro
+MINIMAL FOLLOW FB AMA GH AKU
 ```
 ## KASIH BINTANG WOY 🌟
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Selamat+Bersenang-senang....!+)
