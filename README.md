@@ -1,4 +1,9 @@
+```
+BUDAYAKAN MEMBACA
+```
+
 ## Cara Install
+
 ```
 $ pkg update && pkg upgrade
 $ pkg install python git
@@ -33,6 +38,9 @@ jangan gunakan akun pribadi buat diambil cokisnya
 ```
 ```
 MINIMAL FOLLOW FB AMA GH AKU
+```
+```
+SCRIP [ SC ] USAMETA PERKETAT DEMI KEAMANAN
 ```
 ## KASIH BINTANG WOY 🌟
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Selamat+Bersenang-senang....!+)
