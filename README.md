@@ -23,36 +23,15 @@ $ unzip run.zip
 $ ls
 $ python run.py
 ```
-## Cara Menjalankan SC
-
-```
-
-$ cd USAMETA
-
-$ git pull
-
-$ unzip run.zip
-
-$ ls
-
-$ python run.py
-
-```
-
 ## Cara Update SC
 
 ```
 
 $ cd USAMETA
-
 $ git pull
-
 $ rm -f run.py
-
 $ unzip run.zip
-
 $ ls
-
 $ python run.py
 
 ```
